@@ -113,14 +113,14 @@ html {
 /* Services Section */
 #services{
     margin: 40px;
-    margin-top: -42px;
+    margin-top: -20px;
     display: flex;
 }
 
 .h-primary{
     font-family: 'Bree Serif', serif;
     font-size: 3.8rem;
-    padding: 80px;
+    padding: 90px;
 }
 
 #services .box{ 
@@ -270,5 +270,6 @@ footer{
 
 .send{
   display: inline;
-  margin-left: 250px;
+  margin-left: 58vw;
+  overflow: hidden;
 }
